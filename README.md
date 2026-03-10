@@ -15,7 +15,7 @@ However, due to the analytics manager's unavailability, the task has been assign
 - Data Visualization: Power BI
 - Data Analysis: SQL
 - Data Modeling: Snowflake schema
-- Tools: Excel, mySQL, Power BI Desktop.
+- Tools: Excel, Mysql, Power BI Desktop.
 
 # Key Insights
 * Jaipur: Contributes the highest to Trips (18%) and Revenue (₹37.2M, 34%) but relies heavily on New Passengers (80%).
